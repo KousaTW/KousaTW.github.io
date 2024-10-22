@@ -1,4 +1,4 @@
-import{d as g,r as b,w as I,c as a,a as t,t as _,u as r,b as w,F as d,e as h,o as i,_ as l,f as E}from"./index-u6nCBFal.js";import{_ as v}from"./_plugin-vue_export-helper-DlAUqK2U.js";const A=[{Name:"葉晉瑋",EngName:"YE,JIN-WEI",Department:"資訊管理系",Intro:`台南人 雲林科技大學 資訊管理系畢業
+import{d as g,r as b,w as I,c as a,a as t,t as _,u as r,b as w,F as d,e as h,o as i,_ as l,f as E}from"./index-BeK8rj1z.js";import{_ as v}from"./_plugin-vue_export-helper-DlAUqK2U.js";const A=[{Name:"葉晉瑋",EngName:"YE,JIN-WEI",Department:"資訊管理系",Intro:`台南人 雲林科技大學 資訊管理系畢業
  MBTI:ENFP-T競選者
 興趣是 : FPS遊戲、看動漫、打羽球
 熱愛日本文化，有基本的日文能力
